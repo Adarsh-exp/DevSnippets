@@ -1,0 +1,1 @@
+{"1": {"title": "convert to dict", "code": ".model_dump()", "language": "python", "tags": ["python"], "details": null}}
